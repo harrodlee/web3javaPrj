@@ -44,7 +44,7 @@ public class ABIBack {
 
     public static void main(String[]args){
 
-        getABICode("borrow(address _token, uint256 _amount)","");
+        getABICode("vote()","");
     }
 
     public static Bytes32 stringToBytes32(String string) {
