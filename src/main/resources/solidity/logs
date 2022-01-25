@@ -1,0 +1,5 @@
+Downloading https://services.gradle.org/distributions/gradle-5.6-bin.zip
+.........................................................................................
+npm notice created a lockfile as package-lock.json. You should commit this file.
+up to date in 10.13s
+Solidity version 0.7.6 is not installed. Downloading and installing it to ~/.web3j/solc/0.7.6
